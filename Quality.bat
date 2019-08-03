@@ -1,0 +1,1 @@
+echo "Code Quality process ran at %date%:%time%"

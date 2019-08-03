@@ -1,0 +1,1 @@
+echo "Deploy process ran at %date%:%time%"

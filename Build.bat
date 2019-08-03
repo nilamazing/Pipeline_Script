@@ -1,0 +1,1 @@
+echo "Build process ran at %date%:%time%"
